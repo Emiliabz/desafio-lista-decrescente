@@ -1,35 +1,27 @@
 ﻿# Desafio: Lista Decrescente
 
-Desafio de ordenaÃ§Ã£o de listas em ordem decrescente.
+Desafio de lÃ³gica em Python desenvolvido durante meus estudos em AnÃ¡lise e Desenvolvimento de Sistemas (ADS).
 
 ## ðŸŽ¯ DescriÃ§Ã£o
 
-ExercÃ­cio que implementa algoritmos de ordenaÃ§Ã£o para organizar listas em ordem decrescente.
+ExercÃ­cio prÃ¡tico que implementa algoritmos para manipulaÃ§Ã£o de dados e estruturas em Python.
 
 ## ðŸ› ï¸ Tecnologias Utilizadas
 
 - **Python 3** - Linguagem de programaÃ§Ã£o
 
-## ðŸš€ ExecuÃ§Ã£o
+## ðŸš€ Como Executar
 
 `ash
-# Executar o desafio
-python desafio_lista_decrescente.py
+python desafio-lista-decrescente.py
 `
 
-## ðŸ“‹ Algoritmos Implementados
+## ðŸ“‹ Funcionalidades
 
-- Bubble Sort decrescente
-- Selection Sort decrescente
-- Insertion Sort decrescente
-- Uso de sorted() com reverse=True
-
-## ðŸ’¡ Exemplo
-
-`python
-lista = [3, 1, 4, 1, 5, 9]
-ordenada = ordenar_decrescente(lista)
-# ordenada = [9, 5, 4, 3, 1, 1]
-`
+- ImplementaÃ§Ã£o do algoritmo solicitado
+- Entrada e processamento de dados
+- SaÃ­da formatada dos resultados
 
 ---
+
+*Desenvolvido por EmÃ­lia - Estudante de ADS*
